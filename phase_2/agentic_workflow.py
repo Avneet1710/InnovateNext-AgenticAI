@@ -22,7 +22,7 @@ def main():
     #     return
 
     base_url = "https://openai.vocareum.com/v1"
-    api_key = "voc-18896424415987442761856899cdfba587a8.21820406"
+    api_key = "voc-00000000000000000000000000000000abcd.12345678"
 
     # TODO 3: Load the content of the Product-Spec-Email-Router.txt document
     try:
