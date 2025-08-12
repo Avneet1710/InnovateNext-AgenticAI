@@ -8,7 +8,7 @@ def main():
     Main function to test the EvaluationAgent.
     """
     base_url = "https://openai.vocareum.com/v1"
-    api_key = "voc-18896424415987442761856899cdfba587a8.21820406"
+    api_key = "voc-00000000000000000000000000000000abcd.12345678"
 
     # if not openai_api_key:
     #     print("Error: OPENAI_API_KEY not found.")
