@@ -1,0 +1,13 @@
+Product Name: Intelligent Email Router
+
+Purpose: To automatically categorize, prioritize, and route incoming support emails to the correct internal teams or agents based on content, sender, and sentiment.
+
+Target Users:
+1.  Customer Support Agents: Need emails to be routed to them based on their area of expertise (e.g., Billing, Technical Support, General Inquiries).
+2.  IT Administrators: Need to manage routing rules, monitor system performance, and view analytics.
+
+Key Features:
+- Rule-Based Routing: Admins can set up rules to route emails based on keywords in the subject or body, or by the sender's email address.
+- AI-Powered Categorization: The system will use NLP to determine the main topic of an email (e.g., "password reset," "billing issue," "feature request").
+- Sentiment Analysis: Emails will be analyzed for sentiment (Positive, Negative, Neutral) to help prioritize urgent issues.
+- Analytics Dashboard: A dashboard for admins to view statistics like email volume, average routing time, and most common categories.
