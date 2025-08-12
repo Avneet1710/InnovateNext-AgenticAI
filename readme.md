@@ -18,7 +18,7 @@ The library includes the following agents:
   * `DirectPromptAgent`
   * `AugmentedPromptAgent`
   * `KnowledgeAugmentedPromptAgent`
-  * `RAGKnowledgePromptAgent` (Provided)
+  * `RAGKnowledgePromptAgent`
   * `EvaluationAgent`
   * `RoutingAgent` 
   * `ActionPlanningAgent`
@@ -48,8 +48,8 @@ The project files are organized as follows:
 ```
 phase_1/
 └── workflow_agents/
-    ├── __init__.py               # (empty)
-    ├── base_agents.py            # Student implementation file
+    ├── __init__.py 
+    ├── base_agents.py 
 ├── direct_prompt_agent.py    # Test script for DirectPromptAgent
 ├── augmented_prompt_agent.py # Test script for AugmentedPromptAgent
 ├── knowledge_augmented_prompt_agent.py # Test script for KnowledgeAugmentedPromptAgent
@@ -67,8 +67,8 @@ phase_2/
 1.  **Clone the Repository**
 
     ```sh
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/Avneet1710/InnovateNext-AgenticAI.git
+    cd InnovateNext-AgenticAI
     ```
 
 2.  **Install Dependencies**
